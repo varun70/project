@@ -8,8 +8,9 @@ cd project
 # DON'T REMOVE ANY FILE, YOU CAN UPDATE THE FILE AS YOU WISH BUT AT FIRST DON'T REMOVE ANY FILE
 <br>
 <br>
-sudo chmod +x *
+<b>sudo chmod +x   *</b>
 <br>
-sudo ./code.sh
+
+<b>sudo ./code.sh </b>
 
 ************************************************************************************************************************************
